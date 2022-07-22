@@ -1,2 +1,2 @@
 # LANDKIT-PROJECT-USING-BOOTSTRAP
-https://belayet-pro.github.io/LANDKIT-PROJECT-USING-BOOTSTRAP/
+https://belayet-pro.github.io/LANDKIT-PROJECT-USING-BOOTSTRAP./
